@@ -1,3 +1,3 @@
 # VersieBeheer
-Deze repository bevat de handouts van het vak versiebeheer
+deze repository bevat eigenlijk nog geen zak
 PANKCAKES
